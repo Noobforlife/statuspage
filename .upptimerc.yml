@@ -6,8 +6,9 @@ repo: statuspage # Your Github repository name
 sites:
   - name: Meatballgamerz
     url: https://www.meatballgamerz.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: Fun Server
+    url: $http://95.217.114.82:10000
+    method: GET
   - name: Internet Archive
     url: https://archive.org
   - name: Hacker News
