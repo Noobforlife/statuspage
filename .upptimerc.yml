@@ -1,11 +1,11 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your Github repository name
+owner: Noobforlife # Noobforlife
+repo: statuspage # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Meatballgamerz
+    url: https://www.meatballgamerz.com
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Internet Archive
@@ -19,7 +19,7 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: statuspage.meatballgamerz.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
